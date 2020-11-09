@@ -1,5 +1,6 @@
 # WW_findNthSmallestNoTask
-java code to find nth smallest number from a random array
+java code to find nth smallest number from a random array.
+
 Tools used: Java version 1.8
             Eclipse Version: 2019-06 (4.12.0) 
 
